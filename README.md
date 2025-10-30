@@ -88,6 +88,7 @@ Tracks claim trends by age and policy type.
 Enables data-driven decision-making for improved profitability.
 
 **📷 Dashboard Preview**
+![image alt](https://github.com/poojithkumar29/Finance-dataset/blob/main/Screenshot%202025-10-30%20200709.png)
 
 **👤 Author**
 

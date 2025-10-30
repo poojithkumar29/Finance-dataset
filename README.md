@@ -1,11 +1,11 @@
 
-🏢 PRISM INSURANCE PVT. LTD. — Power BI Dashboard
-📊 Overview
+ # 🏢 PRISM INSURANCE PVT. LTD. — Power BI Dashboard
+**📊 Overview**
 
 The PRISM Insurance Dashboard provides an interactive and data-driven overview of insurance operations, helping visualize premium collections, claim statuses, customer demographics, and policy performance.
 It is built using Power BI to assist management in tracking KPIs, analyzing performance trends, and making informed business decisions.
 
-🎯 Key Insights
+**🎯 Key Insights**
 
 Total Premium Amount: ₹5.98M
 
@@ -15,14 +15,14 @@ Total Claim Amount: ₹16.91M
 
 Customer Count: Over 10,000 (5,001 Female, 5,003 Male)
 
-📈 Dashboard Features
-🔹 Premium Analysis
+**📈 Dashboard Features**
+**🔹 Premium Analysis**
 
 Premium by Policy Type – Travel, Health, Auto, Life, and Home Insurance.
 
 Highest Premium: Travel Insurance (₹2.5M).
 
-🔹 Claim Analysis
+**🔹 Claim Analysis**
 
 Claim Amount by Age Group:
 
@@ -48,7 +48,7 @@ Active: 51.81%
 
 Inactive: 48.19%
 
-🔹 Policy Type Summary Table
+**🔹 Policy Type Summary Table**
 | Policy Type | Pending     | Rejected    | Settled     | Total       |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Auto        | ₹2.08M      | ₹4.06M      | ₹3.29M      | ₹9.44M      |
@@ -67,7 +67,7 @@ DAX (Data Analysis Expressions) – for KPI calculations
 
 Excel / CSV Data Sources
 
-⚙️ How to Use
+**⚙️ How to Use**
 
 Clone or download this repository.
 
@@ -77,7 +77,7 @@ Click Refresh to load or update the data.
 
 Use filters like PolicyType, ClaimNumber, and CustomerID to explore insights.
 
-💡 Business Impact
+**💡 Business Impact**
 
 Identifies top-performing insurance categories.
 
@@ -87,9 +87,9 @@ Tracks claim trends by age and policy type.
 
 Enables data-driven decision-making for improved profitability.
 
-📷 Dashboard Preview
+**📷 Dashboard Preview**
 
-👤 Author
+**👤 Author**
 
 Poojith Kumar
 📧 [poojithkumar.p123@gmail.com]

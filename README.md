@@ -92,5 +92,5 @@ Enables data-driven decision-making for improved profitability.
 👤 Author
 
 Poojith Kumar
-📧 [Add your email or GitHub profile here]
+📧 [poojithkumar.p123@gmail.com]
 📅 Created using Power BI Desktop — 2025

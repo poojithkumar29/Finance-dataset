@@ -1,74 +1,96 @@
-# Finance-dataset
 
-🏢 Insurance Data Analysis Dashboard (Power BI)
+🏢 PRISM INSURANCE PVT. LTD. — Power BI Dashboard
 📊 Overview
 
-The Insurance Data Analysis Dashboard is an interactive Power BI report designed to analyze and visualize key insurance metrics. It provides actionable insights into policy sales, customer demographics, claim patterns, and overall business performance — helping stakeholders make data-driven decisions.
+The PRISM Insurance Dashboard provides an interactive and data-driven overview of insurance operations, helping visualize premium collections, claim statuses, customer demographics, and policy performance.
+It is built using Power BI to assist management in tracking KPIs, analyzing performance trends, and making informed business decisions.
 
 🎯 Key Insights
 
-Policy Performance: Track total policies sold, active vs. expired policies, and renewal trends.
+Total Premium Amount: ₹5.98M
 
-Claim Analysis: Understand claim frequency, total claim amounts, and claim approval ratios.
+Total Coverage Amount: ₹600.55M
 
-Customer Demographics: Visualize customer distribution by age group, region, gender, and policy type.
+Total Claim Amount: ₹16.91M
 
-Revenue Insights: Analyze total premium collected, profit margins, and loss ratios.
+Customer Count: Over 10,000 (5,001 Female, 5,003 Male)
 
-Trend Analysis: Monthly and yearly performance trends across different policy categories.
+📈 Dashboard Features
+🔹 Premium Analysis
 
-🧠 Dashboard Highlights
+Premium by Policy Type – Travel, Health, Auto, Life, and Home Insurance.
 
-Interactive slicers for filtering by policy type, region, or time period.
+Highest Premium: Travel Insurance (₹2.5M).
 
-Visuals include bar charts, pie charts, KPIs, and trend lines for clear performance tracking.
+🔹 Claim Analysis
 
-Drill-through and tooltips for detailed, context-rich data exploration.
+Claim Amount by Age Group:
 
-Professionally formatted visuals for business presentations or executive reviews.
+Adult – ₹8.8M
 
-🗂️ Data Sources
+Elder – ₹6.4M
 
-Primary Data Source: Insurance transaction records (policies, claims, customers).
+Young – ₹1.7M
 
-Data Format: Excel / CSV / SQL database (depending on your setup).
+Claim Status Overview:
 
-Power BI Transformations: Data cleaning, aggregation, DAX measures for KPIs.
+Rejected: 4.4K
 
-🧩 Tools & Technologies Used
+Settled: 3.4K
 
-Power BI Desktop
+Pending: 2.3K
 
-Microsoft Excel / SQL Server (optional for data connection)
+🔹 Customer Insights
 
-DAX (Data Analysis Expressions)
+Active vs. Inactive Customers:
 
-Power Query Editor
+Active: 51.81%
 
-🚀 How to Use
+Inactive: 48.19%
 
-Download or clone this repository.
+🔹 Policy Type Summary Table
+| Policy Type | Pending     | Rejected    | Settled     | Total       |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Auto        | ₹2.08M      | ₹4.06M      | ₹3.29M      | ₹9.44M      |
+| Health      | ₹2.76M      | ₹5.24M      | ₹4.00M      | ₹12.01M     |
+| Home        | ₹1.30M      | ₹2.74M      | ₹2.06M      | ₹6.10M      |
+| Life        | ₹1.72M      | ₹3.37M      | ₹3.21M      | ₹8.31M      |
+| Travel      | ₹5.72M      | ₹10.73M     | ₹8.61M      | ₹25.06M     |
+| **Total**   | **₹13.60M** | **₹26.15M** | **₹21.50M** | **₹60.26M** |
+
+
+Microsoft Power BI Desktop – for data visualization
+
+Power Query – for data cleaning and transformation
+
+DAX (Data Analysis Expressions) – for KPI calculations
+
+Excel / CSV Data Sources
+
+⚙️ How to Use
+
+Clone or download this repository.
 
 Open the file project2.pbix in Power BI Desktop.
 
-Click on Refresh to update the data connections.
+Click Refresh to load or update the data.
 
-Explore the dashboard using available filters and visuals.
+Use filters like PolicyType, ClaimNumber, and CustomerID to explore insights.
 
-📈 Sample Metrics (Examples)
-Metric	Description
-Total Premium	Sum of premium collected across all policies
-Total Claims	Total claim amount approved
-Claim Ratio	Claims
-Active Policies	Policies currently active
+💡 Business Impact
 
-📌 Author
+Identifies top-performing insurance categories.
+
+Highlights customer engagement levels.
+
+Tracks claim trends by age and policy type.
+
+Enables data-driven decision-making for improved profitability.
+
+📷 Dashboard Preview
+
+👤 Author
 
 Poojith Kumar
-📧 For queries or collaboration: [https://github.com/poojithkumar29/Finance-dataset]
-
-🖼️ Preview (Optional)
-
-(Add a screenshot of your dashboard here)
-
-![Insurance Dashboard](images/insurance_dashboard_preview.png)
+📧 [Add your email or GitHub profile here]
+📅 Created using Power BI Desktop — 2025
